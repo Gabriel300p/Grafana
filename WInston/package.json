@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "winston": "^3.3.4",
+    "winston-loki": "^6.0.3"
+  }
+}
